@@ -1,6 +1,7 @@
 
 /** возвращает булевый ответ равны ли параметры firstText и secondText. */
 export function isEqual(firstText, secondText) {
+    
 }
 
 /** возвращает true если аргументы не равны, и true в иных случаях. */
